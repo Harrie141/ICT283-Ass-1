@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1618844958 source:c:\users\harsh\onedrive\documents\college stuff\sem-3\ict283\ict283_asign1_harshit_malhotra_33882375\lab-5.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Vector.h"
+	"math.h"
+	<cstring>
+
+1618844236 c:\users\harsh\onedrive\documents\college stuff\sem-3\ict283\ict283_asign1_harshit_malhotra_33882375\vector.h
+	<iostream>
+
+1621925772 source:c:\users\harsh\onedrive\documents\college stuff\sem-3\ict283\ict283_asign1_harshit_malhotra_33882375\assignment1.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Vector.h"
+	"math.h"
+	<cstring>
+
